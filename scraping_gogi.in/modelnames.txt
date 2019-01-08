@@ -1,0 +1,49 @@
+,Name,ID
+0,Alfawise A8 TV Box,1
+1,Honor Band 4,2
+2,PTron Spunk,3
+3,EACHLINK H6 Mini TV Box,4
+4,SF Rush,5
+5,Moin L1,6
+6,Anker Soundcore Flare,7
+7,Xiaomi Youpin SOOCAS X3,8
+8,Zoook Jazz Blaster,9
+9,Samsung Galaxy A9,10
+10,Amazfit Verge,11
+11,1More Stylish Dual Dynamic Driver Earphone,12
+12,ZAAP Quick Touch One Pro Car Mount,13
+13,Stuffcool Dizzy,14
+14,Asus Zenfone Max Pro M2,15
+15,Infinix Note 5 Stylus,16
+16,Intelligent Bicycle Direction Indicator Light,17
+17,Oclean Air,18
+18,Honor 8C,19
+19,Realme U1,20
+20,Huawei Mate 20 Pro,21
+21,Apple Watch Series 4,22
+22,Samsung Galaxy Watch,23
+23,FS08 Smart Watch,24
+24,Canon Pixma G3010,25
+25,OnePlus Explorer Backpack,26
+26,Redmi Note 6 Pro,27
+27,Noise Shots X5,28
+28,Alfawise EKEN V50 Pro,29
+29,Duracell 10050 mAh powerbank,30
+30,Actofit SmartScale,31
+31,Lenovo Wwatch 9,32
+33,GeekCases 515,34
+34,Noise ColorFit,35
+35,Epson L6190,36
+36,Wings Steel,37
+37,Realme C1,38
+38,JBL Endurance SPRINT,39
+39,Mi TV 4A Pro (49),40
+40,Zeblaze Thor Pro,41
+41,Amazfit Cor,42
+42,Apple iPhone XS,43
+43,GoPro Hero 7 Black,44
+44,DT No. 1 F6 Smartwatch,45
+45,Realme 2 Pro,46
+46,Amkette iGrip,47
+47,Redmi 6,48
+48,PUBG Trigger button,49
