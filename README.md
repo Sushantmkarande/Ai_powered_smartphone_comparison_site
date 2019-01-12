@@ -1,4 +1,4 @@
-# Ai_powered_smartphone_comparison_site
+# Ai_powered_smartphone_comparison_site (https://m.swkp.in/smk)
 Predicting the best smartphone available in market with help of reviews and specification.
 
 ## Objective of Project : 
